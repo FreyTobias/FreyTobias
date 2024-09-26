@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Tobias Frey and I am a Computer Science Master Student at the Technical University of Darmstadt, Germany.<br>
+My name is Tobias Frey and I am a Computer Science Student in my Master at the Technical University of Darmstadt, Germany.<br>
 Focusing on IT-Security, I also have some experience in AI Model development.<br>
 Currently working at PEASEC, supporting doctoral thesises and develop the Open Data Observatory.
 <!--
