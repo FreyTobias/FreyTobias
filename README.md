@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Tobias Frey and I am a Computer Science Master Student at the Technical University of Darmstadt, Germany.
-Focusing on IT-Security, I also have some experience in AI Model development.
+My name is Tobias Frey and I am a Computer Science Master Student at the Technical University of Darmstadt, Germany.<br>
+Focusing on IT-Security, I also have some experience in AI Model development.<br>
 Currently working at PEASEC, supporting doctoral thesises and develop the Open Data Observatory.
 <!--
 **FreyTobias/FreyTobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
